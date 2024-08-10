@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @mingkkday
+- 👋 Hi, I’m Ming
+
 - Backend
 - AWS
 - PHP & Laravel
