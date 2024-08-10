@@ -1,1 +1,4 @@
-# main
+- 👋 Hi, I’m @mingkkday
+- Backend
+- AWS
+- PHP & Laravel
